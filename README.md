@@ -38,4 +38,21 @@
 | **2** | **Soporte de Tickets**: análisis de 300 tickets con clasificación por IA y dashboard interactivo | Python, Gemini API, Power BI, Tableau Public | [Ver repo](https://github.com/luciaduarte12/analisis-tickets-soporte-ia) |
 | **👑 Jefe final** | **Gestión de Flotas**: microservicios para mantenimiento preventivo | Java 17, Spring Boot, RabbitMQ, PostgreSQL, React | [Ver repo](https://github.com/luciaduarte12/gestion-flotas-microservicios) |
 
-🌐 **[Ver mi portfolio completo](https://luciaduarte12.github.io/mi-portfolio/)**
+## 🏆 Logros
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=luciaduarte12&theme=gruvbox&no-frame=true&no-bg=true&row=1&column=6&margin-w=15&margin-h=15" alt="Trofeos" />
+
+</div>
+
+## 🕹️ Multijugador
+
+<div align="center">
+
+**¿Jugamos juntos? Insert coin to collaborate.**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-4A1A30?style=for-the-badge&logo=linkedin&logoColor=E0B94F)](https://www.linkedin.com/in/lucia-duarte-712b3223a/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4A1A30?style=for-the-badge&logo=googlechrome&logoColor=E0B94F)](https://luciaduarte12.github.io/mi-portfolio/)
+
+</div>
