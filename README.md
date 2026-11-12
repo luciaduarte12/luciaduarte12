@@ -4,6 +4,8 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=1000&color=2DE2E6&center=true&vCenter=true&width=700&height=60&lines=PRESS+START;Ingenier%C3%ADa+en+Sistemas+de+Informaci%C3%B3n;C%C3%B3rdoba%2C+Argentina;Abierta+a+oportunidades+laborales" alt="Texto animado" />
 
+<img src="https://raw.githubusercontent.com/luciaduarte12/luciaduarte12/main/assets/arcade.svg" alt="Animación arcade: elegí tu nivel entre mis tres proyectos" width="800" />
+
 </div>
 
 ## 🎮 Ficha de personaje
@@ -34,7 +36,7 @@
 
 | Nivel | Misión | Stack | Código |
 |---|---|---|---|
-| **1** | **Memotest**: juego de memoria con ranking Top 5 | React, Vite, Express | [Repo](https://github.com/luciaduarte12/TU-REPO-MEMOTEST) |
+| **1** | **Memotest**: juego de memoria con ranking Top 5 | React, Vite, Express | [Repo](https://github.com/luciaduarte12/memotest-db) |
 | **2** | **Soporte de Tickets**: análisis de 300 tickets con clasificación por IA y dashboard interactivo | Python, Gemini API, Power BI, Tableau Public | [Repo](https://github.com/luciaduarte12/analisis-tickets-soporte-ia) |
 | **👑 Jefe final** | **Gestión de Flotas**: microservicios para mantenimiento preventivo | Java 17, Spring Boot, RabbitMQ, PostgreSQL, React | [Repo](https://github.com/luciaduarte12/gestion-flotas-microservicios) |
 
@@ -52,17 +54,4 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/luciaduarte12/luciaduarte12/output/github-snake.svg" alt="Viborita comiéndose mis contribuciones" />
-
-</div>
-
-## 🕹️ Multijugador
-
-<div align="center">
-
-**¿Jugamos juntos? Insert coin to collaborate.**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-132052?style=for-the-badge&logo=linkedin&logoColor=2DE2E6)](https://www.linkedin.com/in/lucia-duarte-712b3223a/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-132052?style=for-the-badge&logo=googlechrome&logoColor=2DE2E6)](https://luciaduarte12.github.io/mi-portfolio/)
-
-</div>
+<img src="https://raw.githubusercontent.com/luciaduarte12/luciaduarte12/output/github-snake.s
