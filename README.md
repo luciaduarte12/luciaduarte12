@@ -34,15 +34,17 @@
 
 | Nivel | Misión | Stack | Código |
 |---|---|---|---|
-| **1** | **Memotest**: juego de memoria con ranking Top 5 | React, Vite, Express | [Ver repo](https://github.com/luciaduarte12/memotest-db) |
-| **2** | **Soporte de Tickets**: análisis de 300 tickets con clasificación por IA y dashboard interactivo | Python, Gemini API, Power BI, Tableau Public | [Ver repo](https://github.com/luciaduarte12/analisis-tickets-soporte-ia) |
-| **👑 Jefe final** | **Gestión de Flotas**: microservicios para mantenimiento preventivo | Java 17, Spring Boot, RabbitMQ, PostgreSQL, React | [Ver repo](https://github.com/luciaduarte12/gestion-flotas-microservicios) |
+| **1** | **Memotest**: juego de memoria con ranking Top 5 | React, Vite, Express | [Repo](https://github.com/luciaduarte12/TU-REPO-MEMOTEST) |
+| **2** | **Soporte de Tickets**: análisis de 300 tickets con clasificación por IA y dashboard interactivo | Python, Gemini API, Power BI, Tableau Public | [Repo](https://github.com/luciaduarte12/analisis-tickets-soporte-ia) |
+| **👑 Jefe final** | **Gestión de Flotas**: microservicios para mantenimiento preventivo | Java 17, Spring Boot, RabbitMQ, PostgreSQL, React | [Repo](https://github.com/luciaduarte12/gestion-flotas-microservicios) |
 
-## 🏆 Logros
+## 🏆 Logros desbloqueados
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=luciaduarte12&theme=gruvbox&no-frame=true&no-bg=true&row=1&column=6&margin-w=15&margin-h=15" alt="Trofeos" />
+![Cisco](https://img.shields.io/badge/Cisco_Networking_Academy-Network_Support_%26_Security-4A1A30?style=for-the-badge&logo=cisco&logoColor=E0B94F)
+![UTN](https://img.shields.io/badge/UTN_FRC-Soporte_T%C3%A9cnico_Nivel_1-4A1A30?style=for-the-badge&logoColor=E0B94F)
+![BADRA](https://img.shields.io/badge/BADRA-Primeros_Auxilios_RCP_%26_DEA-4A1A30?style=for-the-badge&logoColor=E0B94F)
 
 </div>
 
