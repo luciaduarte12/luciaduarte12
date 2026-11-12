@@ -12,7 +12,6 @@
 |---|---|
 | **Clase** | Ingeniera en Sistemas de Información |
 | **Base** | Córdoba, Argentina |
-| **Misión actual** | Primera oportunidad laboral |
 
 ## 🎒 Inventario
 
