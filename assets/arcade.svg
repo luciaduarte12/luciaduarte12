@@ -1,0 +1,125 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="300" viewBox="0 0 800 300">
+  <style>
+    /* ---------- Estilos generales ---------- */
+    .marco {
+      fill: #0A1128;
+      stroke: #2DE2E6;
+      stroke-width: 4;
+    }
+    text {
+      font-family: "Courier New", monospace;
+      font-weight: bold;
+    }
+    .titulo {
+      fill: #2DE2E6;
+      font-size: 22px;
+      letter-spacing: 4px;
+    }
+    .coin {
+      fill: #FF4DA6;
+      font-size: 40px;
+      letter-spacing: 6px;
+      animation: parpadeo 1.2s infinite;
+    }
+    .cartucho {
+      fill: #132052;
+      stroke: #134E6F;
+      stroke-width: 3;
+    }
+    .nivel {
+      fill: #2DE2E6;
+      font-size: 16px;
+      letter-spacing: 2px;
+    }
+    .nombre {
+      fill: #E6F7FF;
+      font-size: 22px;
+    }
+    .descripcion {
+      fill: #E6F7FF;
+      font-size: 18px;
+    }
+    .resalte {
+      fill: #FF4DA6;
+      fill-opacity: 0.15;
+      stroke: #FF4DA6;
+      stroke-width: 4;
+    }
+
+    /* ---------- Animaciones (ciclo total: 12 segundos) ---------- */
+    .escena1 { animation: escena1 12s infinite; }
+    .escena2 { animation: escena2 12s infinite; }
+
+    .sel1 { animation: sel1 12s infinite; }
+    .sel2 { animation: sel2 12s infinite; }
+    .sel3 { animation: sel3 12s infinite; }
+
+    @keyframes parpadeo {
+      0%, 49%   { opacity: 1; }
+      50%, 100% { opacity: 0; }
+    }
+    @keyframes escena1 {
+      0%, 22%   { opacity: 1; }
+      24%, 100% { opacity: 0; }
+    }
+    @keyframes escena2 {
+      0%, 22%   { opacity: 0; }
+      24%, 96%  { opacity: 1; }
+      98%, 100% { opacity: 0; }
+    }
+    @keyframes sel1 {
+      0%, 25%   { opacity: 0; }
+      26%, 47%  { opacity: 1; }
+      48%, 100% { opacity: 0; }
+    }
+    @keyframes sel2 {
+      0%, 47%   { opacity: 0; }
+      48%, 69%  { opacity: 1; }
+      70%, 100% { opacity: 0; }
+    }
+    @keyframes sel3 {
+      0%, 69%   { opacity: 0; }
+      70%, 94%  { opacity: 1; }
+      95%, 100% { opacity: 0; }
+    }
+  </style>
+
+  <!-- Marco fijo -->
+  <rect class="marco" x="4" y="4" width="792" height="292" rx="8" />
+
+  <!-- ESCENA 1: INSERT COIN -->
+  <g class="escena1">
+    <text class="titulo" x="400" y="100" text-anchor="middle">LUCÍA DUARTE · ARCADE</text>
+    <text class="coin" x="400" y="180" text-anchor="middle">INSERT COIN</text>
+  </g>
+
+  <!-- ESCENA 2: ELEGÍ TU NIVEL -->
+  <g class="escena2">
+    <text class="titulo" x="400" y="55" text-anchor="middle">ELEGÍ TU NIVEL</text>
+
+    <!-- Cartucho 1 -->
+    <rect class="cartucho" x="70" y="80" width="200" height="120" rx="6" />
+    <text class="nivel" x="170" y="120" text-anchor="middle">NIVEL 1</text>
+    <text class="nombre" x="170" y="160" text-anchor="middle">MEMOTEST</text>
+
+    <!-- Cartucho 2 -->
+    <rect class="cartucho" x="300" y="80" width="200" height="120" rx="6" />
+    <text class="nivel" x="400" y="120" text-anchor="middle">NIVEL 2</text>
+    <text class="nombre" x="400" y="160" text-anchor="middle">TICKETS</text>
+
+    <!-- Cartucho 3 -->
+    <rect class="cartucho" x="530" y="80" width="200" height="120" rx="6" />
+    <text class="nivel" x="630" y="120" text-anchor="middle">JEFE FINAL</text>
+    <text class="nombre" x="630" y="160" text-anchor="middle">FLOTAS</text>
+
+    <!-- Resaltes: se encienden de a uno -->
+    <rect class="resalte sel1" x="70" y="80" width="200" height="120" rx="6" />
+    <rect class="resalte sel2" x="300" y="80" width="200" height="120" rx="6" />
+    <rect class="resalte sel3" x="530" y="80" width="200" height="120" rx="6" />
+
+    <!-- Descripciones: cambian con cada resalte -->
+    <text class="descripcion sel1" x="400" y="255" text-anchor="middle">Juego de memoria con ranking Top 5</text>
+    <text class="descripcion sel2" x="400" y="255" text-anchor="middle">300 tickets analizados con IA y dashboard</text>
+    <text class="descripcion sel3" x="400" y="255" text-anchor="middle">Microservicios para mantenimiento preventivo</text>
+  </g>
+</svg>
