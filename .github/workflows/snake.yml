@@ -21,8 +21,7 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.svg?color_snake=#E0B94F&color_dots=#3B1A2B,#7A2A4A,#A8416B,#D16A93,#E58BB1
-
+            dist/github-snake.svg?color_snake=#FF4DA6&color_dots=#0F1B3D,#134E6F,#1A8FA3,#22BFCB,#2DE2E6
       - name: Publicar en la rama output
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
