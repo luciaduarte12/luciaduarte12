@@ -10,7 +10,7 @@
 
 | | |
 |---|---|
-| **Clase** | Ingeniera en Sistemas de Información |
+| **Clase** | Estudiante de Ingeniería en Sistemas de Información |
 | **Base** | Córdoba, Argentina |
 
 ## 🎒 Inventario
