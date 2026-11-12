@@ -29,3 +29,13 @@
 ![Git](https://img.shields.io/badge/Git-4A1A30?style=for-the-badge&logo=git&logoColor=E0B94F)
 
 </div>
+
+## 🗺️ Misiones
+
+| Nivel | Misión | Stack | Código |
+|---|---|---|---|
+| **1** | **Memotest**: juego de memoria con ranking Top 5 | React, Vite, Express | [Ver repo](https://github.com/luciaduarte12/TU-REPO-MEMOTEST) |
+| **2** | **Soporte de Tickets**: análisis de 300 tickets con clasificación por IA y dashboard interactivo | Python, Gemini API, Power BI, Tableau Public | [Ver repo](https://github.com/luciaduarte12/analisis-tickets-soporte-ia) |
+| **👑 Jefe final** | **Gestión de Flotas**: microservicios para mantenimiento preventivo | Java 17, Spring Boot, RabbitMQ, PostgreSQL, React | [Ver repo](https://github.com/luciaduarte12/gestion-flotas-microservicios) |
+
+🌐 **[Ver mi portfolio completo](https://luciaduarte12.github.io/mi-portfolio/)**
