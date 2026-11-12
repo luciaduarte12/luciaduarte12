@@ -46,6 +46,14 @@
 
 </div>
 
+## 🐍 Etapa bonus
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/luciaduarte12/luciaduarte12/output/github-snake.svg" alt="Viborita comiéndose mis contribuciones" />
+
+</div>
+
 ## 🕹️ Multijugador
 
 <div align="center">
